@@ -17,5 +17,8 @@
         "email": "0jeffrey017@gmail.com",
         "url": "https://"
     },
-    "dependencies": {}
+    "dependencies": {
+        "com.cysharp.unitask": "2.5.3",
+        "com.neuecc.unirx": "7.1.0"   
+    }
 }
