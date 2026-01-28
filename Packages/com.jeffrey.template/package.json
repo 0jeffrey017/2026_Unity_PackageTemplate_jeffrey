@@ -1,7 +1,7 @@
 {
     "name": "com.jeffrey.template",
     "version": "0.1.0",
-    "displayName": "Example UMP Template Package",
+    "displayName": "jeffrey_template",
     "description": "A template package to demonstrate Unity package structure.",
     "unity": "2021.3",
     "unityRelease": "0f1",
@@ -17,10 +17,5 @@
         "email": "0jeffrey017@gmail.com",
         "url": "https://"
     },
-    "dependencies": {
-        "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
-        "com.neuecc.unirx": "https://github.com/neuecc/UniRx.git?path=Assets/Plugins/UniRx/Scripts",
-        "com.unity.modules.jsonserialize": "1.0.0",
-        "com.unity.modules.unitywebrequest": "1.0.0"
-    }
+    "dependencies": {}
 }
